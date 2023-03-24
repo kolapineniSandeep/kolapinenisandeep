@@ -4,9 +4,11 @@
 
 
 
+- 👨‍💻 I'm having 6+ years of backend development
 - 🔭 I’m currently working on Java, python, 
 - 🌱 I’m currently learning machine learning, react js
-- 🤔 I’m looking for help with interactive chatbots
+- 🥰 Love coding and learning Technologies 
+
 
 - 📫 How to reach me: sandeepkolapineni@gmail.com
 
