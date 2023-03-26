@@ -1,6 +1,6 @@
 ### Sandeep Kolapineni 👋
 
-![introduction banner](https://github.com/kolapineniSandeep/kolapinenisandeep/blob/aeae00b9680bb396dc75ea8676f9f8a44ac209d6/intro.jpg)
+![introduction banner](https://github.com/kolapineniSandeep/kolapinenisandeep/blob/main/think-twice-code-once.jpg)
 
 
 
