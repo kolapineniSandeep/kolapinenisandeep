@@ -8,9 +8,8 @@
 - 🔭 I’m currently working on Java, python, 
 - 🌱 I’m currently learning machine learning, react js
 - 🥰 Love coding and learning Technologies 
-
-
-- 📫 How to reach me: sandeepkolapineni@gmail.com
+- ⚡️ [Portfolio](https://kolapinenisandeep.github.io/kolapinenisandeep/)
+- 📫 reach out to me: sandeepkolapineni@gmail.com
 
 ##  :rocket: Languages and Frameworks
 
@@ -26,7 +25,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 
 
-##  ⚡️ Databases
+## 🖥️ Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
