@@ -11,6 +11,10 @@
 - ⚡️ [Portfolio](https://kolapinenisandeep.github.io/kolapinenisandeep/)
 - 📫 reach out to me: sandeepkolapineni@gmail.com
 
+![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=kolapinenisandeep&theme=dark&show_icons=true)
+
+![kolapinenisandeep](https://github-readme-stats.vercel.app/api/pin/?username=kolapinenisandeep&repo=tree-ring-analysis&theme=codeSTACKr)
+
 ##  :rocket: Languages and Frameworks
 
 <a href="https://www.python.org/"> ![alt text](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)</a> <a href="https://www.java.com/en/"> ![alt text](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</a>
