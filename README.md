@@ -1,4 +1,4 @@
-### Sandeep Kolapineni 👋
+## [Sandeep Kolapineni](https://kolapinenisandeep.github.io/kolapinenisandeep/) 👋
 
 ![introduction banner](https://github.com/kolapineniSandeep/kolapinenisandeep/blob/main/think-twice-code-once.jpg)
 
@@ -8,8 +8,9 @@
 - 🔭 I’m currently working on Java, python, 
 - 🌱 I’m currently learning machine learning, react js
 - 🥰 Love coding and learning Technologies 
-- ⚡️ [Portfolio](https://kolapinenisandeep.github.io/kolapinenisandeep/)
-- 📫 reach out to me: sandeepkolapineni@gmail.com
+- 📫 reach out to me:  [SandeepKolapineni.com](https://kolapinenisandeep.github.io/kolapinenisandeep/) 
+
+
 
 ![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=kolapinenisandeep&theme=dark&show_icons=true)
 
