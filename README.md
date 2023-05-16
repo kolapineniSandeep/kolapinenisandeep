@@ -4,9 +4,8 @@
 
 
 
-- 👨‍💻 I'm having 6+ years of backend development
-- 🔭 I’m currently working on Java, python, 
-- 🌱 I’m currently learning machine learning, react js
+- 👨‍💻 I'm having 6+ years of backend development using JAVA
+- 🌱 I’m currently learning machine learning, neural networks and UI frameworks
 - 🥰 Love coding and learning Technologies 
 - 📫 reach out to me:  [SandeepKolapineni.com](https://kolapinenisandeep.github.io/kolapinenisandeep/) 
 
