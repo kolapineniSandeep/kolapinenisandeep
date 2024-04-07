@@ -4,17 +4,17 @@
 
 
 
-- 👨‍💻 I'm having 6+ years of backend development
-- 🔭 I’m currently working on Java, python, 
-- 🌱 I’m currently learning machine learning, react js
+- 👨‍💻 I'm having 6+ years of backend development using JAVA
+- 🌱 I’m currently learning machine learning, neural networks and UI frameworks
 - 🥰 Love coding and learning Technologies 
 - 📫 reach out to me:  [SandeepKolapineni.com](https://kolapinenisandeep.github.io/kolapinenisandeep/) 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kolapinenisandeep&langs_count=8)
 
 
 ![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=kolapinenisandeep&theme=dark&show_icons=true)
 
-![kolapinenisandeep](https://github-readme-stats.vercel.app/api/pin/?username=kolapinenisandeep&repo=tree-ring-analysis&theme=codeSTACKr)
+
 
 ##  :rocket: Languages and Frameworks
 
