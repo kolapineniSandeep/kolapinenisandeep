@@ -1,4 +1,4 @@
-## [Sandeep Kolapineni](https://kolapinenisandeep.github.io/kolapinenisandeep/) 👋
+## [Sandeep Kolapineni](https://kolapineni.com) 👋
 
 ![introduction banner](https://github.com/kolapineniSandeep/kolapinenisandeep/blob/main/think-twice-code-once.jpg)
 
@@ -7,7 +7,7 @@
 - 👨‍💻 I'm having 6+ years of backend development using JAVA
 - 🌱 I’m currently learning machine learning, neural networks and UI frameworks
 - 🥰 Love coding and learning Technologies 
-- 📫 reach out to me:  [SandeepKolapineni.com](https://kolapinenisandeep.github.io/kolapinenisandeep/) 
+- 📫 reach out to me:  [SandeepKolapineni.com](https://kolapineni.com) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kolapinenisandeep&langs_count=8)
 
